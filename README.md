@@ -2,6 +2,8 @@
 
 This guide demonstrates how to build a portfolio website and deploy it using a custom Apache server in Docker.
 
+Checkout the full [article](https://medium.com/@sharmarvellous/deploying-a-portfolio-website-with-a-custom-apache-server-in-docker-step-by-step-guide-6b11941bd8b3).
+
 ## Table of Contents
 1. [Creating the Portfolio Website Files](#creating-the-portfolio-website-files)
 2. [Creating a Dockerfile](#creating-a-dockerfile)
